@@ -1,8 +1,8 @@
 # 🍔 DevBurguer - Menu Interativo de Hamburgueria
 
-![JavaScript](https://shields.io)
-![CSS3](https://shields.io)
-![HTML5](https://shields.io)
+![JavaScript](assets/img/script-java.png)
+![CSS3](assets/img/css-3.png)
+![HTML5](assets/img/html-5.png)
 
 Um menu interativo de hamburgueria desenvolvido para consolidar fundamentos de **lógica de programação**, **manipulação do DOM** e aplicação prática de **métodos de array** no JavaScript Vanilla.
 
