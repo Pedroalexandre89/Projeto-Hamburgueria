@@ -1,8 +1,11 @@
 # 🍔 DevBurguer - Menu Interativo de Hamburgueria
 
-![JavaScript](./img/javascript.png)
-![CSS3](./img/css.png)
-![HTML5](./img/html.png)
+<p align="left">
+  <img src="./img/html.png" alt="HTML5" height="40">
+  <img src="./img/css.png" alt="CSS3" height="40">
+  <img src="./img/javascript.png" alt="JavaScript" height="40">
+</p>
+
 
 
 Um menu interativo de hamburgueria desenvolvido para consolidar fundamentos de **lógica de programação**, **manipulação do DOM** e aplicação prática de **métodos de array** no JavaScript Vanilla.
